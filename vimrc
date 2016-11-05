@@ -30,6 +30,7 @@ Plugin 'https://github.com/fatih/vim-go.git'
 Plugin 'https://github.com/evanmiller/nginx-vim-syntax.git'
 Plugin 'https://github.com/leafgarland/typescript-vim.git'
 Plugin 'https://github.com/genoma/vim-less.git'
+Plugin 'https://github.com/jlanzarotta/bufexplorer.git'
 
 call vundle#end()
 filetype plugin indent on
