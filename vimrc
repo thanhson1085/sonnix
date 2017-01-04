@@ -25,6 +25,7 @@ Plugin 'fholgado/minibufexpl.vim'
 Plugin 'moll/vim-node'
 Plugin 'pangloss/vim-javascript'
 Plugin 'maksimr/vim-jsbeautify'
+Plugin 'avakhov/vim-yaml'
 
 Plugin 'https://github.com/fatih/vim-go.git'
 Plugin 'https://github.com/evanmiller/nginx-vim-syntax.git'
