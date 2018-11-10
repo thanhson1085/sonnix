@@ -28,7 +28,7 @@ Plugin 'maksimr/vim-jsbeautify'
 Plugin 'avakhov/vim-yaml'
 
 Plugin 'https://github.com/fatih/vim-go.git'
-Plugin 'https://github.com/evanmiller/nginx-vim-syntax.git'
+Plugin 'posva/vim-vue'
 Plugin 'https://github.com/leafgarland/typescript-vim.git'
 Plugin 'https://github.com/genoma/vim-less.git'
 Plugin 'https://github.com/jlanzarotta/bufexplorer.git'
