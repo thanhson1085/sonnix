@@ -1,6 +1,5 @@
 export VISUAL=vim
 export EDITOR="$VISUAL"
-export GREP_OPTIONS="-n --color"
 alias ff='find . -type f|xargs grep -in'
 alias vi="vim"
 alias h="history"
